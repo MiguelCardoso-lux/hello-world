@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Miguel Cardoso, and I am an intern at Luxinnovation. This is the first GitHub repository that I have created.
